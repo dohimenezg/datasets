@@ -1,4 +1,4 @@
-State,Account Length,Area Code,Phone Number,Inter Plan,VoiceMail Plan,0 of Vmail Mesgs,Total Day Min,Total Day calls,Total Day Charge,Total Evening Min,Total Evening Calls,Total Evening Charge,Total Night Minutes,Total Night Calls,Total Night Charge,Total Int Min,Total Int Calls,Total Int Charge,0 of Calls Customer Service,Churn
+State,Account Length,Area Code,Phone Number,Inter Plan,VoiceMail Plan,No of Vmail Mesgs,Total Day Min,Total Day calls,Total Day Charge,Total Evening Min,Total Evening Calls,Total Evening Charge,Total Night Minutes,Total Night Calls,Total Night Charge,Total Int Min,Total Int Calls,Total Int Charge,No of Calls Customer Service,Churn
 OH,107.0,A415,371-7191,0,1,26.0,161.6,123.0,27.47,195.5,103.0,16.62,254.4,103.0,11.45,13.7,3.0,3.7,1.0,False
 NJ,137.0,A415,358-1921,0,0,0.0,243.4,114.0,41.38,121.2,110.0,10.3,162.6,104.0,7.32,12.2,5.0,3.29,0.0,False
 OH,84.0,A408,375-9999,1,0,0.0,299.4,71.0,50.9,61.9,88.0,5.26,196.9,89.0,8.86,6.6,7.0,1.78,2.0,False
